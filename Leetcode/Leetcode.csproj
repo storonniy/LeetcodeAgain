@@ -8,10 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Hard\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="FluentAssertions" Version="8.5.0" />
       <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
       <PackageReference Include="NUnit" Version="4.3.2" />

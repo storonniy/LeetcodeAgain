@@ -7,24 +7,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e95885-da7e-4c64-8288-2269cd313a18" name="Changes" comment="Позориться так публично">
+    <list default="true" id="56e95885-da7e-4c64-8288-2269cd313a18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Leetcode/Sandbox/NullableTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Leetcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Leetcode.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "storonniy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/storonniy/LeetcodeAgain",
+    "accountId": "02579089-7084-48fc-893c-30fefcff0150"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/svetlanav/RiderProjects/Leetcode/Leetcode/obj/Leetcode.csproj.nuget.dgspec.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="30Kc4u2xq8CHqtV7QzBqnejQmSO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "5636ea9b-ba0b-42d1-9bb9-e0a0114496f1.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -44,7 +64,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Leetcode">
     <configuration name="Leetcode" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -72,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753379516794</updated>
-      <workItem from="1753379517892" duration="1841000" />
+      <workItem from="1753379517892" duration="9704000" />
+      <workItem from="1753468270927" duration="7796000" />
     </task>
     <task id="LOCAL-00001" summary="Позориться так публично">
       <option name="closed" value="true" />
@@ -82,7 +103,39 @@
       <option name="project" value="LOCAL" />
       <updated>1753380926501</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test sdk init">
+      <option name="closed" value="true" />
+      <created>1753386753580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753386753581</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Почему бы и да">
+      <option name="closed" value="true" />
+      <created>1753386813868</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753386813868</updated>
+    </task>
+    <task id="LOCAL-00004" summary="легкая наркомания">
+      <option name="closed" value="true" />
+      <created>1753470545656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753470545656</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Зачем">
+      <option name="closed" value="true" />
+      <created>1753515338784</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753515338784</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +167,42 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Позориться так публично" />
-    <option name="LAST_COMMIT_MESSAGE" value="Позориться так публично" />
+    <MESSAGE value="test sdk init" />
+    <MESSAGE value="Почему бы и да" />
+    <MESSAGE value="легкая наркомания" />
+    <MESSAGE value="Зачем" />
+    <option name="LAST_COMMIT_MESSAGE" value="Зачем" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Easy/LongPressedName.cs</url>
+          <line>46</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Easy/LongPressedName.cs" containingFunctionPresentation="Method 'IsLongPressedName'">
+            <startOffsets>
+              <option value="1261" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1273" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Easy/LongPressedName.cs</url>
+          <line>22</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Easy/LongPressedName.cs" containingFunctionPresentation="Method 'IsLongPressedName'">
+            <startOffsets>
+              <option value="583" />
+            </startOffsets>
+            <endOffsets>
+              <option value="584" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
