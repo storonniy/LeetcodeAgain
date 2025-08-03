@@ -1,4 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ALateBoundTestFramework_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Ff9878f643c2ecf1b4ce73234de56c9754a451c835620eae85ca8babbcb5889c4_003FLateBoundTestFramework_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5636ea9b_002Dba0b_002D42d1_002D9bb9_002De0a0114496f1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MaximumUniqueSubarraySumAfterDeletionTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.MaximumUniqueSubarraySumAfterDeletionTest&lt;/TestId&gt;
@@ -7,5 +8,16 @@
     &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Sandbox.GenericStructTest.Test&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Hard.MaximizeSubArraysAfterRemovingConflictingPairTest.Test&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Hard.MaximizeSubArraysAfterRemovingConflictingPairTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.CountHillValleyTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.CountMaximumBitwiseOrSubsetsTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.CountMaximumBitwiseOrSubsetsTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.LongestSubarrayWithMaximumBitwiseAndTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.DistinctBitwiseOrSubarraysCountTest.ResurrectNumberFromBitsTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.DistinctBitwiseOrSubarraysCountTest.ToBitArrayTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.DistinctBitwiseOrSubarraysCountTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.PascalTriangleTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.DetectRepeatedKTimesPatternInArrayTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.DetectRepeatedKTimesPatternInArrayTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Hard.MaximumFruitsHarvestForStepsTest&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

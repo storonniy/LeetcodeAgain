@@ -8,10 +8,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56e95885-da7e-4c64-8288-2269cd313a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Sandbox/NullableTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/DetectRepeatedKTimesPatternInArray.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/PascalTriangle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Hard/MaximumFruitsHarvestForSteps.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Hard/RearrangingFruits.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Leetcode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Leetcode.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/bin/Debug/net6.0/Leetcode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/bin/Debug/net6.0/Leetcode.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/bin/Debug/net6.0/Leetcode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/bin/Debug/net6.0/Leetcode.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/Leetcode.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/Leetcode.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/Leetcode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/Leetcode.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/Leetcode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/Leetcode.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/ref/Leetcode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/ref/Leetcode.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/refint/Leetcode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/refint/Leetcode.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,46 +33,48 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "storonniy"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;storonniy&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/storonniy/LeetcodeAgain",
-    "accountId": "02579089-7084-48fc-893c-30fefcff0150"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/storonniy/LeetcodeAgain&quot;,
+    &quot;accountId&quot;: &quot;02579089-7084-48fc-893c-30fefcff0150&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f9878f643c2ecf1b4ce73234de56c9754a451c835620eae85ca8babbcb5889c4/LateBoundTestFramework.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/svetlanav/RiderProjects/Leetcode/Leetcode/obj/Leetcode.csproj.nuget.dgspec.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="30Kc4u2xq8CHqtV7QzBqnejQmSO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "5636ea9b-ba0b-42d1-9bb9-e0a0114496f1.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "http.proxy",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;5636ea9b-ba0b-42d1-9bb9-e0a0114496f1.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.Leetcode">
     <configuration name="Leetcode" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -94,6 +105,12 @@
       <updated>1753379516794</updated>
       <workItem from="1753379517892" duration="9704000" />
       <workItem from="1753468270927" duration="7796000" />
+      <workItem from="1753595843029" duration="4204000" />
+      <workItem from="1753720276204" duration="5938000" />
+      <workItem from="1753811383390" duration="871000" />
+      <workItem from="1753893257831" duration="3692000" />
+      <workItem from="1753981201834" duration="4398000" />
+      <workItem from="1754039997620" duration="11927000" />
     </task>
     <task id="LOCAL-00001" summary="Позориться так публично">
       <option name="closed" value="true" />
@@ -135,7 +152,55 @@
       <option name="project" value="LOCAL" />
       <updated>1753515338784</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="env">
+      <option name="closed" value="true" />
+      <created>1753595875105</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753595875105</updated>
+    </task>
+    <task id="LOCAL-00007" summary="славатебегосподи Easy">
+      <option name="closed" value="true" />
+      <created>1753597903447</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753597903447</updated>
+    </task>
+    <task id="LOCAL-00008" summary="думать для слабаков, beats 8%, я ненавижу рекурсию">
+      <option name="closed" value="true" />
+      <created>1753725207255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753725207255</updated>
+    </task>
+    <task id="LOCAL-00009" summary="настроение дерьмо - и код такой же">
+      <option name="closed" value="true" />
+      <created>1753812153178</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753812153178</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ах вот почему medium">
+      <option name="closed" value="true" />
+      <created>1753895834189</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753895834189</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ООО очаровательные решения">
+      <option name="closed" value="true" />
+      <created>1753984272901</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753984272901</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +236,13 @@
     <MESSAGE value="Почему бы и да" />
     <MESSAGE value="легкая наркомания" />
     <MESSAGE value="Зачем" />
-    <option name="LAST_COMMIT_MESSAGE" value="Зачем" />
+    <MESSAGE value="env" />
+    <MESSAGE value="славатебегосподи Easy" />
+    <MESSAGE value="думать для слабаков, beats 8%, я ненавижу рекурсию" />
+    <MESSAGE value="настроение дерьмо - и код такой же" />
+    <MESSAGE value="ах вот почему medium" />
+    <MESSAGE value="ООО очаровательные решения" />
+    <option name="LAST_COMMIT_MESSAGE" value="ООО очаровательные решения" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -202,7 +273,37 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Easy/PascalTriangle.cs</url>
+          <line>25</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Easy/PascalTriangle.cs" containingFunctionPresentation="Method 'Generate'">
+            <startOffsets>
+              <option value="661" />
+            </startOffsets>
+            <endOffsets>
+              <option value="701" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Easy/DetectRepeatedKTimesPatternInArray.cs</url>
+          <line>17</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Easy/DetectRepeatedKTimesPatternInArray.cs" containingFunctionPresentation="Method 'ContainsPattern'">
+            <startOffsets>
+              <option value="459" />
+            </startOffsets>
+            <endOffsets>
+              <option value="509" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
