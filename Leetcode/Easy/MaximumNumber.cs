@@ -7,7 +7,6 @@ public class MaximumNumber
 {
     public int Maximum69Number (int num)
     {
-        var power = 1;
         var lastPower = -1;
         var x = num;
         for (var i = 0; i < 5 && x > 0; i++)
@@ -15,13 +14,9 @@ public class MaximumNumber
             var digit = x % 10;
             x /= 10;
             if (digit == 6)
-                lastPower = power;
-            power *= 10;
+                lastPower = i;
         }
-
-        if (lastPower == -1)
-            return num;
-        return num + 3 * lastPower;
+        return lastPower == -1 ? num : num + 3 * (int)Math.Pow(10, lastPower);
     }
 }
 
