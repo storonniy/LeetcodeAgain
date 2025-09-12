@@ -8,10 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56e95885-da7e-4c64-8288-2269cd313a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/DetectRepeatedKTimesPatternInArray.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/PascalTriangle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Hard/MaximumFruitsHarvestForSteps.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Hard/RearrangingFruits.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/FindUniqueIntegers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/LongestRectangle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Easy/NonZeroIntegers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Hard/SudokuSolver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/AwareSecret.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/Operations.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/PlacePeople.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/SortMatrixByDiagonals.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/Sudoku.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/Teaching.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Medium/Vowels.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Leetcode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode/bin/Debug/net6.0/Leetcode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/bin/Debug/net6.0/Leetcode.dll" afterDir="false" />
@@ -46,6 +53,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fb0981b3036e4614b8d7078015e83a917a200/89/08bf4d6d/TestCaseSourceAttribute.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f9878f643c2ecf1b4ce73234de56c9754a451c835620eae85ca8babbcb5889c4/LateBoundTestFramework.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Leetcode/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -75,15 +83,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.Leetcode">
+  <component name="RunManager">
     <configuration name="Leetcode" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Leetcode/Leetcode.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
@@ -110,7 +123,35 @@
       <workItem from="1753811383390" duration="871000" />
       <workItem from="1753893257831" duration="3692000" />
       <workItem from="1753981201834" duration="4398000" />
-      <workItem from="1754039997620" duration="11927000" />
+      <workItem from="1754039997620" duration="13306000" />
+      <workItem from="1754317156984" duration="3169000" />
+      <workItem from="1754416269277" duration="3451000" />
+      <workItem from="1754486636481" duration="1689000" />
+      <workItem from="1754629665933" duration="2139000" />
+      <workItem from="1754744769427" duration="881000" />
+      <workItem from="1754835460359" duration="1853000" />
+      <workItem from="1754930135410" duration="3000" />
+      <workItem from="1754930141635" duration="2229000" />
+      <workItem from="1755009830347" duration="1737000" />
+      <workItem from="1755061827843" duration="964000" />
+      <workItem from="1755184557894" duration="1486000" />
+      <workItem from="1755330152219" duration="3201000" />
+      <workItem from="1755486579172" duration="1106000" />
+      <workItem from="1755589760405" duration="5743000" />
+      <workItem from="1755712281498" duration="1766000" />
+      <workItem from="1755801104471" duration="1068000" />
+      <workItem from="1755878615837" duration="1603000" />
+      <workItem from="1755928707838" duration="7575000" />
+      <workItem from="1756006575217" duration="4746000" />
+      <workItem from="1756178563228" duration="2059000" />
+      <workItem from="1756351285365" duration="3134000" />
+      <workItem from="1756436111010" duration="1482000" />
+      <workItem from="1756532395699" duration="6305000" />
+      <workItem from="1756781475929" duration="2561000" />
+      <workItem from="1757041875600" duration="911000" />
+      <workItem from="1757216151940" duration="2001000" />
+      <workItem from="1757387951769" duration="675000" />
+      <workItem from="1757473275356" duration="6820000" />
     </task>
     <task id="LOCAL-00001" summary="Позориться так публично">
       <option name="closed" value="true" />
@@ -200,7 +241,119 @@
       <option name="project" value="LOCAL" />
       <updated>1753984272901</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="стыд позор">
+      <option name="closed" value="true" />
+      <created>1754210810187</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1754210810187</updated>
+    </task>
+    <task id="LOCAL-00013" summary="daily 04.08.25">
+      <option name="closed" value="true" />
+      <created>1754318949752</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1754318949752</updated>
+    </task>
+    <task id="LOCAL-00014" summary="3477. Fruits Into Baskets II">
+      <option name="closed" value="true" />
+      <created>1754418309294</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1754418309294</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ой блять">
+      <option name="closed" value="true" />
+      <created>1754487123810</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1754487123810</updated>
+    </task>
+    <task id="LOCAL-00016" summary="хорошие задачи, и алгоритмы интересные">
+      <option name="closed" value="true" />
+      <created>1754745048136</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1754745048136</updated>
+    </task>
+    <task id="LOCAL-00017" summary="интересные задачи">
+      <option name="closed" value="true" />
+      <created>1755062192050</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1755062192050</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2264. Largest 3-Same-Digit Number in String">
+      <option name="closed" value="true" />
+      <created>1755185440707</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1755185440707</updated>
+    </task>
+    <task id="LOCAL-00019" summary="третий день подряд easy + solved early">
+      <option name="closed" value="true" />
+      <created>1755330644986</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1755330644986</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ух ты yield">
+      <option name="closed" value="true" />
+      <created>1755486862336</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1755486862336</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Для ∀ ε &gt; 0 ∃ δ &gt; 0 : f(x) ...">
+      <option name="closed" value="true" />
+      <created>1755623958445</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1755623958445</updated>
+    </task>
+    <task id="LOCAL-00022" summary="литкод открыл портал в матрицу">
+      <option name="closed" value="true" />
+      <created>1755880204664</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1755880204664</updated>
+    </task>
+    <task id="LOCAL-00023" summary="звонили из ада просили нарисовать треугольники">
+      <option name="closed" value="true" />
+      <created>1755932512076</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1755932512076</updated>
+    </task>
+    <task id="LOCAL-00024" summary="тупые задачи требуют тупых решений">
+      <option name="closed" value="true" />
+      <created>1756008628978</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1756008628978</updated>
+    </task>
+    <task id="LOCAL-00025" summary="миленькая задачка">
+      <option name="closed" value="true" />
+      <created>1756092225064</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1756092225064</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +395,21 @@
     <MESSAGE value="настроение дерьмо - и код такой же" />
     <MESSAGE value="ах вот почему medium" />
     <MESSAGE value="ООО очаровательные решения" />
-    <option name="LAST_COMMIT_MESSAGE" value="ООО очаровательные решения" />
+    <MESSAGE value="стыд позор" />
+    <MESSAGE value="daily 04.08.25" />
+    <MESSAGE value="3477. Fruits Into Baskets II" />
+    <MESSAGE value="ой блять" />
+    <MESSAGE value="хорошие задачи, и алгоритмы интересные" />
+    <MESSAGE value="интересные задачи" />
+    <MESSAGE value="2264. Largest 3-Same-Digit Number in String" />
+    <MESSAGE value="третий день подряд easy + solved early" />
+    <MESSAGE value="ух ты yield" />
+    <MESSAGE value="Для ∀ ε &gt; 0 ∃ δ &gt; 0 : f(x) ..." />
+    <MESSAGE value="литкод открыл портал в матрицу" />
+    <MESSAGE value="звонили из ада просили нарисовать треугольники" />
+    <MESSAGE value="тупые задачи требуют тупых решений" />
+    <MESSAGE value="миленькая задачка" />
+    <option name="LAST_COMMIT_MESSAGE" value="миленькая задачка" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -298,6 +465,240 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/FruitIntoBaskets.cs</url>
+          <line>18</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/FruitIntoBaskets.cs" containingFunctionPresentation="Method 'TotalFruit'">
+            <startOffsets>
+              <option value="518" />
+            </startOffsets>
+            <endOffsets>
+              <option value="519" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Easy/PowerOfThree.cs</url>
+          <line>11</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Easy/PowerOfThree.cs" containingFunctionPresentation="Method 'IsPowerOfThree'">
+            <startOffsets>
+              <option value="265" />
+            </startOffsets>
+            <endOffsets>
+              <option value="266" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/ZeroFilledArray.cs</url>
+          <line>17</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/ZeroFilledArray.cs" containingFunctionPresentation="Method 'ZeroFilledSubarray'">
+            <startOffsets>
+              <option value="427" />
+            </startOffsets>
+            <endOffsets>
+              <option value="464" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/SubMatrix.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/SubMatrix.cs" containingFunctionPresentation="Method 'CountSquares'">
+            <startOffsets>
+              <option value="310" />
+            </startOffsets>
+            <endOffsets>
+              <option value="342" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/MatrixTraverse.cs</url>
+          <line>48</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/MatrixTraverse.cs" containingFunctionPresentation="Method 'FindDiagonalOrder'">
+            <startOffsets>
+              <option value="1276" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1299" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/MatrixTraverse.cs</url>
+          <line>43</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/MatrixTraverse.cs" containingFunctionPresentation="Method 'FindDiagonalOrder'">
+            <startOffsets>
+              <option value="1155" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1182" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Easy/LongestRectangle.cs</url>
+          <line>12</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Easy/LongestRectangle.cs" containingFunctionPresentation="Method 'AreaOfMaxDiagonal'">
+            <startOffsets>
+              <option value="265" />
+            </startOffsets>
+            <endOffsets>
+              <option value="266" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/SortMatrixByDiagonals.cs</url>
+          <line>39</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/SortMatrixByDiagonals.cs" containingFunctionPresentation="Method 'SortMatrix'">
+            <startOffsets>
+              <option value="1037" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1049" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/SortMatrixByDiagonals.cs</url>
+          <line>12</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/SortMatrixByDiagonals.cs" containingFunctionPresentation="Method 'SortMatrix'">
+            <startOffsets>
+              <option value="250" />
+            </startOffsets>
+            <endOffsets>
+              <option value="280" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/SortMatrixByDiagonals.cs</url>
+          <line>37</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/SortMatrixByDiagonals.cs" containingFunctionPresentation="Method 'SortMatrix'">
+            <startOffsets>
+              <option value="1026" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1027" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/SortMatrixByDiagonals.cs</url>
+          <line>34</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/SortMatrixByDiagonals.cs" containingFunctionPresentation="Method 'SortMatrix'">
+            <startOffsets>
+              <option value="896" />
+            </startOffsets>
+            <endOffsets>
+              <option value="917" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/Sudoku.cs</url>
+          <line>16</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/Sudoku.cs" containingFunctionPresentation="Method 'IsValidSudoku'">
+            <startOffsets>
+              <option value="437" />
+            </startOffsets>
+            <endOffsets>
+              <option value="450" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/Sudoku.cs</url>
+          <line>19</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/Sudoku.cs" containingFunctionPresentation="Method 'IsValidSudoku'">
+            <startOffsets>
+              <option value="553" />
+            </startOffsets>
+            <endOffsets>
+              <option value="566" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/Sudoku.cs</url>
+          <line>34</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/Sudoku.cs" containingFunctionPresentation="Method 'IsValidSudoku'">
+            <startOffsets>
+              <option value="1046" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1059" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/Sudoku.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/Sudoku.cs" containingFunctionPresentation="Method 'IsValidSudoku'">
+            <startOffsets>
+              <option value="337" />
+            </startOffsets>
+            <endOffsets>
+              <option value="338" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/PlacePeople.cs</url>
+          <line>8</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/PlacePeople.cs" containingFunctionPresentation="Method 'NumberOfPairs'">
+            <startOffsets>
+              <option value="152" />
+            </startOffsets>
+            <endOffsets>
+              <option value="153" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/Teaching.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/Teaching.cs" containingFunctionPresentation="Method 'MinimumTeachings'">
+            <startOffsets>
+              <option value="686" />
+            </startOffsets>
+            <endOffsets>
+              <option value="702" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Leetcode/Medium/Vowels.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/Leetcode/Medium/Vowels.cs" containingFunctionPresentation="Method 'SortVowels'">
+            <startOffsets>
+              <option value="658" />
+            </startOffsets>
+            <endOffsets>
+              <option value="697" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

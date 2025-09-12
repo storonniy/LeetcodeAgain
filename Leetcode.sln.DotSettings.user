@@ -1,5 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ALateBoundTestFramework_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Ff9878f643c2ecf1b4ce73234de56c9754a451c835620eae85ca8babbcb5889c4_003FLateBoundTestFramework_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ATestCaseSourceAttribute_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Ffb0981b3036e4614b8d7078015e83a917a200_003F89_003F08bf4d6d_003FTestCaseSourceAttribute_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5636ea9b_002Dba0b_002D42d1_002D9bb9_002De0a0114496f1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MaximumUniqueSubarraySumAfterDeletionTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.MaximumUniqueSubarraySumAfterDeletionTest&lt;/TestId&gt;
@@ -19,5 +20,29 @@
     &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.DetectRepeatedKTimesPatternInArrayTest.Test&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.DetectRepeatedKTimesPatternInArrayTest&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Hard.MaximumFruitsHarvestForStepsTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.FruitIntoBasketsTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.FruitsIntoBasketsTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.PowerOfTwoTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Hard.ReorderPowerOfTwoTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.PowerOfThreeTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.LargestDigitNumberTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.MaximumNumberTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.ZeroFilledArray+ZeroFilledArrayTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.SubMatrixTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.SubMatrixTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.RectangleAreaTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.RectangleAreaTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Hard.RectangleAreaTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.LongestSubaarayAfterDeleting+LongestSubaarayAfterDeletingTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.MatrixTraverseTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Easy.LongestRectangleTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.SortMatrixByDiagonalsTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.SortMatrixByDiagonalsTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.SudokuTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Hard.SudokuSolverTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.PlacePeopleTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.TeachingTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.VowelsTest.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F8DE07BD-0E83-4714-ACBD-C4A869534F10::net6.0::Leetcode.Medium.VowelsTest&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
